@@ -20,9 +20,9 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-1. (Node.js)[https://nodejs.org/en/download/]
-2. (Python v 3.7.x)[https://www.python.org/downloads/]
-3. (Docker)[https://docs.docker.com/get-docker/]
+1. [Node.js](https://nodejs.org/en/download/)
+2. [Python v 3.7.x](https://www.python.org/downloads/)
+3. [Docker](https://docs.docker.com/get-docker/)
 
 ### Setup
 1. ``git clone https://github.com/bushmusi/medstore-ethiopia.git --recursive``
