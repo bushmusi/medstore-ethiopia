@@ -1,0 +1,3 @@
+[submodule "medstore-marketplace"]
+	path = medstore-marketplace
+	url = https://github.com/Chernet-Mequanent/medstore-marketplace.git
