@@ -1,52 +1,47 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Medstore Ethiopia
 
-# Project Name
-
-> Description the project.
+> Medstore is online medical equipement marketplace which have features of matchmaking, selling and buying equipment 100% only without in-person engagement. This project is build using React.Js as front-end library and Django Rest Framework as REST API framework
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: ``Python, JS, CSS, TailwindCSS, ``TS``
+- Frameworks: `React`, `Djanog`
+- Technologies used: Netlify, Heroku, Docker, Jest
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://medstoret.netlify.app/)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+1. (Node.js)[https://nodejs.org/en/download/]
+2. (Python v 3.7.x)[https://www.python.org/downloads/]
+3. (Docker)[https://docs.docker.com/get-docker/]
 
 ### Setup
+1. ``git clone https://github.com/bushmusi/medstore-ethiopia.git --recursive``
+2. ``cd medstore-ethiopia``
 
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+1. ``docker-compose up``
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Bushra**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@bushmusi](https://github.com/bushmusi)
+- Twitter: [@bushera_mestofa](https://twitter.com/bushera_mestofa)
+- LinkedIn: [Bushra-Mustofa](https://linkedin.com/in/bushra-mustofa)
 
-👤 **Author2**
+👤 **Yesemu**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
