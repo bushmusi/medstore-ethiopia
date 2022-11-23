@@ -1,0 +1,82 @@
+{
+  "root": {
+    "Imaging": {
+      "Ultrasound Equipment": {
+        "Handled Ultrasound systems": {},
+        "Furniture for ultrasound cabinet": {
+          "Ultrasound carts": {},
+          "Ultrasound Examination Tables": {}
+        }
+
+      },
+      "Radiology Equipment": {
+
+      },
+      "Medical Displays": {
+
+      },
+      "Medical Equipment diagnostic and Test tools": {
+
+      },
+      "Medical Thermal Imaging": {},
+      "Vein viewing System": {}
+    },
+    "Surgery": {
+
+    },
+    "stomatology": {
+
+    },
+    "anesthesiology": {
+
+    },
+    "cosmetology-dermatology": {
+
+    },
+    "ent": {
+
+    },
+    "laboratory-sterilising": {
+
+    },
+    "veterinary": {
+
+    },
+    "obstetrics-gynecology": {
+
+    },
+    "furniture": {
+
+    },
+    "endoscopy": {
+
+    },
+    "reabilitation": {
+
+    },
+    "neurology": {
+
+    },
+    "ophtalmology": {
+
+    },
+    "physiothreapy": {
+
+    },
+    "software": {
+
+    },
+    "cardiology": {
+
+    },
+    "dental-lab": {
+
+    },
+    "supplies": {
+
+    },
+    "emt-training": {
+
+    }
+  }
+}
